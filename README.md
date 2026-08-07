@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Deepak's coding banner" width="500"/>
+  <img src="/banner.gif" alt="Deepak's coding banner" width="500"/>
 </p>
 
 ---
