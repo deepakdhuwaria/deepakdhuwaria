@@ -5,6 +5,10 @@
   Currently building the observability backend at <b>Mega Max</b> — and shipping SaaS products on the side.
 </p>
 
+<p align="center">
+  <img src="assets/banner.gif" alt="Deepak's coding banner" width="500"/>
+</p>
+
 ---
 
 ### 🔭 What I do
